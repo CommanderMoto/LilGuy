@@ -1,0 +1,15 @@
+.bash*
+.cache
+.moonraker*
+.profile
+.ssh
+.wget*
+gcode_files
+klipper
+klipper_logs
+klippy-env
+mainsail
+mjpg-streamer
+moonraker-env
+moonraker
+printer_data
